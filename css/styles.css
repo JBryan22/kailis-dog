@@ -1,0 +1,21 @@
+body {
+  font-family: Verdana, sans-serif;
+  color: grey;
+}
+
+h1 {
+  color: lightblue;
+  text-align: center;
+}
+
+.commands {
+  line-height: 25px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.photo {
+  width: 50%;
+}
